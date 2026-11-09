@@ -4,4 +4,6 @@ PR0J3CT: CHR0N0 is a split keyboard design shaped like two hands that is compati
 
 To build CHR0N0, we're using Ki Cad, where we're designing and laying out our parts like the buttons and microcontroller on the Schematic editor, then we'll switch to the PCB editor to arrange and wire to connect the components.  
 
+<img width="691" height="475" alt="Screenshot 2026-11-08 204502" src="https://github.com/user-attachments/assets/40a6a959-3e29-46f2-8398-7241b3650549" />
 
+<img width="331" height="246" alt="Screenshot 2026-11-08 204517" src="https://github.com/user-attachments/assets/88051a9e-5156-4921-a397-077f415d97cc" />
